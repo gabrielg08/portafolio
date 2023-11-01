@@ -38,7 +38,7 @@ export default function Tech() {
             />
             <img
               className="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1"
-              src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
               alt="JavaScript"
               width={158}
               height={48}
