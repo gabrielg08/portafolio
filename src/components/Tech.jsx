@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Tech() {
     return (
-      <div id='tech' className="bg-[#11071F] py-24 sm:py-32">
+      <div id='tech' className="bg-violet-500 py-24 sm:py-32">
         <div className="max-w-4xl mx-auto p-4">
           <h2 className="text-center text-lg font-semibold leading-8 text-gray-400">
           Technology I use..
